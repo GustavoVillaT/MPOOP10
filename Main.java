@@ -11,7 +11,7 @@ import java.io.BufferedWriter;
 import java.io.PrintWriter;
 import java.io.FileReader;
 import java.util.StringTokenizer;
-class Main {
+public class Main {
   public static void main(String[] args) {
     System.out.println("########FILE######");
     File archivo=new File("archivo.txt");
